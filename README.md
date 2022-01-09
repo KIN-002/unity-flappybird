@@ -1,2 +1,2 @@
 # unity-flappybird
-this is unity exercise from my F6 
+This is a unity practice for my six grade in high school
